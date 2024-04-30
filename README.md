@@ -1,2 +1,3 @@
-# sql_course
+# SQL
+
 Aulas práticas sobre SQL
